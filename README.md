@@ -17,4 +17,5 @@ This is a small script to help you batch upload your models like LoRAs or whatev
 
 ## How do I get the .preview.png and .civitai.info files?
 [https://github.com/zixaphir/Stable-Diffusion-Webui-Civitai-Helper](https://github.com/zixaphir/Stable-Diffusion-Webui-Civitai-Helper)
+
 Use this extension in A1111 and press the `Scan`-button to download it all from CivitAI automatically.
