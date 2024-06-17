@@ -19,3 +19,7 @@ This is a small script to help you batch upload your models like LoRAs or whatev
 [https://github.com/zixaphir/Stable-Diffusion-Webui-Civitai-Helper](https://github.com/zixaphir/Stable-Diffusion-Webui-Civitai-Helper)
 
 Use this extension in A1111 and press the `Scan`-button to download it all from CivitAI automatically.
+
+
+## Example
+[https://huggingface.co/mnemic](https://huggingface.co/mnemic)
